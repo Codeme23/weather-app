@@ -67,7 +67,9 @@ function App() {
   }
 
   useEffect(()=>{
+    // eslint-disable-next-line
     defaultDataFetched()
+    // eslint-disable-next-line
   },[])
 
 
